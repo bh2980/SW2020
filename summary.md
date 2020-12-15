@@ -1,5 +1,7 @@
 # 요약문
 
+본 GitHub Page는 2020 전자공학부 소프트웨어 연계부전공 및 장학금 지원을 위해 작성된 페이지입니다. 
+
 ## 교과목형
 - [EECS201002 C프로그래밍과 실습 / 2016 2학기 / 소현주](https://github.com/bh2980/20162_CProgramming)
 - [COMP217003 자바프로그래밍 / 2020년 1학기 / 권혜진](https://github.com/bh2980/20201_JavaProgramming)
